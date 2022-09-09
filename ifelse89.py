@@ -8,3 +8,4 @@ else:
     print('you don\'t have money')
     print('test')
     print('test22')
+    print('test33win')
