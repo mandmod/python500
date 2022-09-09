@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (python500)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (python500)" project-jdk-type="Python SDK" />
   <component name="com.itcodebox.notebooks.projectservice.ProjectUIState">
     <option name="notePaneVisible" value="true" />
     <option name="selectedNotebookId" value="1" />
-    <option name="selectedChapterId" value="1" />
-    <option name="selectedNoteId" value="1" />
+    <option name="selectedChapterId" value="2" />
+    <option name="selectedNoteId" value="3" />
   </component>
 </project>
