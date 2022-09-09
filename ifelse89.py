@@ -7,3 +7,4 @@ if thb > 0:
 else:
     print('you don\'t have money')
     print('test')
+    print('test22')
