@@ -6,3 +6,4 @@ if thb > 0:
     print('ธนาคารได้กำไร : =', profit)
 else:
     print('you don\'t have money')
+    print('test')
