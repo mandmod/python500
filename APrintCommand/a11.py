@@ -1,0 +1,10 @@
+print('''
+a
+an
+ant
+''')
+print("""
+a
+an
+ant
+""")
