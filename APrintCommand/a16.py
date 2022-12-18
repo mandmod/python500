@@ -1,0 +1,6 @@
+print(25)
+print('%d' % 25)
+print('%f' % 25)
+print('%.2f' % 25)
+print('%.1f' % 25)
+print('%.0f' % 25)
