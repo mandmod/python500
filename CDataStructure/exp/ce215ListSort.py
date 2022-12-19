@@ -1,0 +1,10 @@
+list14 = [1, 5, 4, 2, 3]
+print(list14)
+list14.sort()
+print(list14)
+list14.sort(reverse=True)
+print(list14)
+sorted_list14 = sorted(list14)
+print(sorted_list14)
+sorted_list14 = sorted(list14, reverse=True)
+print(sorted_list14)
