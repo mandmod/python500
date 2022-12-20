@@ -1,0 +1,6 @@
+string1 = input('Please insert string : ')
+print('ตัวแปร String ที่ผ่านคำสั่ง replace =', string1.replace('a', 'A'))
+print('ตัวแปร String1 =', string1)
+string2 = string1.replace('a', 'A')
+print('ตัวแปร String1 =', string1)
+print('ตัวแปร String2 =', string2)
