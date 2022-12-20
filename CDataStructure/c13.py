@@ -1,3 +1,3 @@
 logic2 = False
-print(logic2)
-print(type(logic2))
+print('logic2 =', logic2)
+print('ชนิดของข้อมูล =', type(logic2))

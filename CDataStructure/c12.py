@@ -1,3 +1,3 @@
 logic1 = True
-print(logic1)
-print(type(logic1))
+print('logic1 =', logic1)
+print('ชนิดของข้อมูล =', type(logic1))
