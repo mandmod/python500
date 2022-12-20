@@ -1,0 +1,11 @@
+list1 = []
+str1 = input('Please insert list1 : ')
+str2 = input('Please insert list2 : ')
+str3 = input('Please insert list3 : ')
+print(list1)
+list1.append(str1)
+print(list1)
+list1.append(str2)
+print(list1)
+list1.append(str3)
+print(list1)
